@@ -4,6 +4,7 @@
         "name": "slate",
         "version": "1.0.0",
         "license": "MIT"
+        "updater": "https:\/\/raw.githubusercontent.com\/myumichi\/slate\/main\/themes\/slate.json"
     },
     "background": {
         "url": "https:\/\/i.ibb.co\/RbT8K5B\/Untitled22-20240317230935.png",
