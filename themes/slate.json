@@ -3,13 +3,12 @@
         "author": "nyraki",
         "name": "slate",
         "version": "1.0.0",
-        "license": "MIT",
-        "updater": "https:\/\/raw.githubusercontent.com\/myumichi\/slate\/main\/themes\/slate.json"
+        "license": "MIT"
     },
     "background": {
+        "url": "https:\/\/i.ibb.co\/RbT8K5B\/Untitled22-20240317230935.png",
         "blur_radius": 0,
         "overlay_alpha": 140
-        "url": "https:\/\/raw.githubusercontent.com\/myumichi\/slate\/main\/backgrounds\/slate-bg.png"
     },
     "fonts": {
         "whitney_medium": "https:\/\/github.com\/myumichi\/slate\/blob\/main\/fonts\/Mesclo-Medium.ttf?raw=true",
