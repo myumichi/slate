@@ -2,7 +2,7 @@
     "manifest": {
         "author": "nyraki",
         "name": "slate",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "license": "MIT",
         "updater": "https:\/\/raw.githubusercontent.com\/myumichi\/slate\/main\/themes\/slate.json"
     },
@@ -12,7 +12,7 @@
         "url": "https:\/\/raw.githubusercontent.com\/myumichi\/slate\/main\/backgrounds\/slate-bg.png"
     },
     "fonts": {
-        "whitney_medium": "https:\/\/github.com\/myumichi\/slate\/blob\/main\/fonts\/Mesclo-Medium.ttf?raw=true",
+        "whitney_medium": "https:\/\/github.com\/myumichi\/slate\/blob\/main\/fonts\/Mesclo-Medium.otf?raw=true",
         "whitney_bold": "https:\/\/github.com\/myumichi\/slate\/blob\/main\/fonts\/Mesclo-Bold.ttf?raw=true",
         "whitney_semibold": "https:\/\/github.com\/myumichi\/slate\/blob\/main\/fonts\/Mesclo-ExtraBold.ttf?raw=true",
         "ginto_bold": "https:\/\/github.com\/myumichi\/slate\/blob\/main\/fonts\/5kaSansDesign-Black.ttf?raw=1",
@@ -53,7 +53,8 @@
         "primary_dark_660": -14606294,
         "primary_dark_400": -9605758,
         "primary_600": -9605758,
-        "brand_new_560": -3286828
+        "brand_new_560": -3286828,
+        "primary_dark_900": -15066849
     },
     "drawable_tints": {
         "drawable_overlay_channels_dark": -15066849,
